@@ -1,8 +1,8 @@
 import React from "react";
-import MyComponent from "./component/MyComponent";
+import Say from "./Say";
 
 const App = () => {
-  return <MyComponent name={3}>ddd</MyComponent>;
+  return <Say />;
 };
 
 export default App;
