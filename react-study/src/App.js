@@ -1,8 +1,8 @@
 import React from "react";
-import Say from "./Say";
+import Counter from "./ch8-Counter";
 
 const App = () => {
-  return <Say />;
+  return <Counter />;
 };
 
 export default App;
